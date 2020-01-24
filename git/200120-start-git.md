@@ -23,6 +23,3 @@
 
 ## Tomorrow I'll Learn..
 
-- practice bash command, editor and so on.
-- aaaa
-
