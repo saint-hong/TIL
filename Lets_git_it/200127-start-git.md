@@ -30,3 +30,11 @@
    - creationg AWS server connect port 8888
    - port 8888 connect elastic IP
 
+## Explore GitHub!!
+
+I was curious about other peopl's blogs.\
+Click on the Exploration menu to navigate the pages of oter users.\
+There were pages that shared good information.\
+Among them, i followed the pages that shared the Python code.\
+And i also saw information about Git Hub conference 2020. \
+If i become a data scientist someday, i want to paricipate in various conference.
